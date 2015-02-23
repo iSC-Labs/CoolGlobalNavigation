@@ -1,4 +1,4 @@
-// CoolGlobalNavigation @author Paynekiller92
+// CoolGlobalNav @author Paynekiller92
 // JS to set the 'inverse' class
 document.getElementById("globalNavigation").className = "global-navigation inverse"; 
 // JQuery to load CSS
